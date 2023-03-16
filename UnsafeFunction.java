@@ -1,4 +1,4 @@
-package org.usd232.robotics.rapidreact.log;
+package io.github.team1810robotics.chargedup.log;
 
 @FunctionalInterface
 public interface UnsafeFunction<T> {
